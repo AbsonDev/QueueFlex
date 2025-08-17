@@ -1,0 +1,42 @@
+{
+  "Cache": {
+    "Provider": "Memory",
+    "DefaultExpirationMinutes": 30,
+    "Redis": {
+      "InstanceName": "QueueManagement",
+      "ConnectionString": "localhost:6379",
+      "Database": 0
+    },
+    "SqlServer": {
+      "SchemaName": "dbo",
+      "TableName": "Cache",
+      "ConnectionString": "DefaultConnection"
+    },
+    "Memory": {
+      "SizeLimit": 1024,
+      "CompactionPercentage": 0.1,
+      "ExpirationScanFrequency": "00:05:00"
+    },
+    "Policies": {
+      "Tickets": {
+        "DefaultExpirationMinutes": 15,
+        "RealTimeDataMinutes": 2,
+        "HistoricalDataMinutes": 30,
+        "DailyDataHours": 1
+      },
+      "Queues": {
+        "DefaultExpirationMinutes": 10,
+        "StatusDataMinutes": 5,
+        "ActiveDataMinutes": 5
+      },
+      "Users": {
+        "DefaultExpirationMinutes": 60,
+        "ProfileDataMinutes": 30
+      },
+      "Units": {
+        "DefaultExpirationMinutes": 120,
+        "ConfigurationDataHours": 2
+      }
+    }
+  }
+}
