@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueManagement.Domain", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueManagement.Infrastructure", "Infrastructure\QueueManagement.Infrastructure.csproj", "{B2C3D4E5-F6G7-8901-BCDE-F23456789012}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueManagement.Api", "QueueManagement.Api\QueueManagement.Api.csproj", "{C3D4E5F6-G7H8-9012-CDEF-345678901234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
