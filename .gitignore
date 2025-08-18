@@ -1,0 +1,115 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+*.lcov
+.nyc_output
+
+# Production builds
+dist/
+build/
+out/
+bin/
+obj/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vs/
+*.user
+*.suo
+
+# Next.js
+.next/
+next-env.d.ts
+
+# Vite
+dist-ssr/
+*.local
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.props
+*.targets
+.dotnet/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Redis
+dump.rdb
+
+# Process files
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# Package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+.cache/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
