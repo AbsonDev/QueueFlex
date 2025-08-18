@@ -1,0 +1,15 @@
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.AssemblyInfoInputs.cache
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.AssemblyInfo.cs
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.csproj.CoreCompileInputs.cache
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.sourcelink.json
+/workspace/QueueManagement.ValidationTests/bin/Debug/net8.0/QueueManagement.ValidationTests.Simple
+/workspace/QueueManagement.ValidationTests/bin/Debug/net8.0/QueueManagement.ValidationTests.Simple.deps.json
+/workspace/QueueManagement.ValidationTests/bin/Debug/net8.0/QueueManagement.ValidationTests.Simple.runtimeconfig.json
+/workspace/QueueManagement.ValidationTests/bin/Debug/net8.0/QueueManagement.ValidationTests.Simple.dll
+/workspace/QueueManagement.ValidationTests/bin/Debug/net8.0/QueueManagement.ValidationTests.Simple.pdb
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.dll
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/refint/QueueManagement.ValidationTests.Simple.dll
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.pdb
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.Simple.genruntimeconfig.cache
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/ref/QueueManagement.ValidationTests.Simple.dll

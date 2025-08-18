@@ -1,0 +1,5 @@
+/workspace/Domain/obj/Debug/net8.0/QueueManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Domain/obj/Debug/net8.0/QueueManagement.Domain.AssemblyInfoInputs.cache
+/workspace/Domain/obj/Debug/net8.0/QueueManagement.Domain.AssemblyInfo.cs
+/workspace/Domain/obj/Debug/net8.0/QueueManagement.Domain.csproj.CoreCompileInputs.cache
+/workspace/Domain/obj/Debug/net8.0/QueueManagement.Domain.sourcelink.json

@@ -1,0 +1,6 @@
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.csproj.AssemblyReference.cache
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.AssemblyInfoInputs.cache
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.AssemblyInfo.cs
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.csproj.CoreCompileInputs.cache
+/workspace/QueueManagement.ValidationTests/obj/Debug/net8.0/QueueManagement.ValidationTests.sourcelink.json
